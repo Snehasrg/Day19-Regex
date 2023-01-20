@@ -7,6 +7,7 @@
 
             MethodStoring.ForFirstName();
             MethodStoring.ForLatName();
+            MethodStoring.Foremail();
 
         }
 
