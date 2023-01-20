@@ -9,6 +9,7 @@
             MethodStoring.ForLatName();
             MethodStoring.Foremail();
             MethodStoring.ForNumber();
+            MethodStoring.ForPassword();
 
         }
 
